@@ -2,7 +2,7 @@
 Local Cluster is a strategy board game for 2-8 players inspired by games like Diplomacy and Stellaris.  Each player takes command of an interstellar Empire in a randomly generated galaxy! Expand your military, borders, and economy to compete with other Empires on the galactic stage with the ultimate goal of extending your rule to every Sector in your **Local Cluster**!
 
 # Rules
-See [instructions.pdf](https://github.com/Augumat/local-cluster-manual/instructions.pdf) for the (WIP) ruleset.
+See [instructions.pdf](https://github.com/Augumat/local-cluster-manual/blob/master/instructions.pdf) for the (WIP) ruleset.
 
 # Making Of
 ![pieces being cut](https://github.com/Augumat/local-cluster-manual/assets/42900790/659a80ea-3060-4c20-a877-86f58bf4b97f)
